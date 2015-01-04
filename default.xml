@@ -448,6 +448,7 @@
   <project path="packages/apps/OmniSwitch" name="CyanideL/android_packages_apps_OmniSwitch" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
+  <project path="packages/apps/PerformanceControl" name="CyanideL/android_packages_apps_PerformanceControl" />
   <project path="packages/apps/PhoneCommon" name="CyanideL/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/Settings" name="CyanideL/android_packages_apps_Settings" />
