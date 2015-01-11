@@ -452,6 +452,7 @@
   <project path="packages/apps/PerformanceControl" name="CyanideL/android_packages_apps_PerformanceControl" />
   <project path="packages/apps/PhoneCommon" name="CyanideL/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
+  <project path="packages/apps/ScreenRecorder" name="CyanideL/android_packages_apps_ScreenRecorder" />
   <project path="packages/apps/Settings" name="CyanideL/android_packages_apps_Settings" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
