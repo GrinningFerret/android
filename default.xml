@@ -567,9 +567,9 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-5.0.2_r1" />
 
   <!-- copy build script -->
-  <project path="vendor/cyanide" name="CyanideL/android_vendor_cyanide" remote="github" revision="cm-12.0" />
-  <copyfile src="tools/build-cyanide.sh" dest="build-cyanide.sh" />
-
+  <project path="vendor/cyanide" name="CyanideL/android_vendor_cyanide" remote="github" revision="cm-12.0" >
+    <copyfile src="tools/build-cyanide.sh" dest="build-cyanide.sh" />
+  </project>
 	
 	
 </manifest>
